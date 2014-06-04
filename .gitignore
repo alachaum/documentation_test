@@ -1,0 +1,16 @@
+.bundle
+db/*.sqlite3*
+log/
+*.log
+/tmp/
+doc/
+*.swp
+*~
+.DS_Store
+.project
+.sass-cache/
+public/uploads/
+downloads/
+solr/data
+solr/pids
+.ruby-version
