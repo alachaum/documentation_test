@@ -1,9 +1,4 @@
-Intro
------
+Section1
+========
 
-This is the intro of the section one
-blablabla
-interesting
-fair enough
-perfect
-big no no
+This is the ruby description
